@@ -3,5 +3,5 @@ Hi! I'm Youngjun and this is my portfolio for my Intro to Software Technology fo
 
 ## Contents
 [RESUME](RESUME.md)
-[Programming Languages Table]([Programming-Languages-Table.md](https://github.com/IceSnowfox/Youngjun-Portfolio/blob/main/PROGRAMMING-LANGUAGES-TABLE.md))
+[Programming Languages Table](Programming-Languages-Table.md)
 [Binary Logic](Binary-Logic.md)
