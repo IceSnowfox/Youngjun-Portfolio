@@ -8,3 +8,8 @@
 ## Hobbies
 - Playing games
 - practicing basketball
+
+## typing
+- keys learned
+ - J, F, and space
+ - U, R, and K keys
