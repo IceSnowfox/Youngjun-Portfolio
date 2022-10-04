@@ -13,3 +13,4 @@
 - keys learned
  - J, F, and space
  - U, R, and K keys
+- typing speed: 28 wpm
